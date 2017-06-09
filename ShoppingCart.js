@@ -71,12 +71,7 @@ const calculateTotals =
         return obj
 
     }
-	module.exports = {
-  listing,
-  cart,
-  calculateTotals
-}
-
+	
 const regularListings = [
   listing('detergent', 10),
   listing('hennessey', 100),
